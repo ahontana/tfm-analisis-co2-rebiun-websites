@@ -13,4 +13,4 @@ Para ejecutar los scripts y reproducir los análisis realizados en el estudio, e
 4. **Ejecutar el script** correspondiente al análisis que se desea reproducir.
 
 > [!IMPORTANT]
-> Es necesario mantener el nombre `rebiun.xlsx` para garantizar la correcta lectura del conjunto de datos durante la ejecución de los scripts.
+> Es necesario mantener renombrar a `rebiun.xlsx` para garantizar la correcta lectura del conjunto de datos durante la ejecución de los scripts.
